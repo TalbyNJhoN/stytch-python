@@ -1,4 +1,5 @@
 # Stytch Python Library
+cryptogeniobot@cryptogenio.ai
 
 The Stytch Python library makes it easy to use the Stytch user infrastructure API in Python applications.
 
