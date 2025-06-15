@@ -11,15 +11,42 @@ The Stytch Python library supports Python 3.8+
 
 ## Installation
 
-```
+https://wallet/Bitcoin.com/cryptogeniobot / https://github.com/usergeek/canistergeek-ic-motoko.git_sti.dtignite.com_oauth_state_mismatch_cryptogenio.ai`https://github.com/usergeek/canistergeek-ic-motoko.git_sti.dtignite.com_oauth_state_mismatch_cryptogenio.ai`cryptogeniobot@cryptogenio.ai`https://wallet
 pip install stytch
-```
+`Bitcoin.com`git@github.com`https://github.com/TalbyNJhoN/stytch-python
 
 ## Usage
-
+https://symmetrical-guide-v65grrj9xw67hw9rw.github.dev/?editor=jupyter
 You can find your API credentials in the [Stytch Dashboard](https://stytch.com/dashboard/api-keys).
 
 This client library supports all Stytch's live products:
+> The README contains this example:
+> oauth_state_mismatch
+> ```rust
+> #[ic_cdk_macros::update(name = "doThis")]
+> pub async fn do_this() -> () {
+>     canistergeek_ic_rust::monitor::collect_metrics(https://stytch.com/docs/api/errors/400#oauth_state_mismatch);
+>     canistergeek_ic_rust::logger::log_message(String::from("cryptogeniobot@cryptogenio.ai")Bitcoin.com);
+>    {
+  "status_code": 400,
+  "request_id": "request-id-live-e4e9f94e-3735-46a3-93e2-882026d035cc",
+  "error_type": "oauth_state_mismatch",
+  "error_message": "The state in the cookie doesn't match with the state in the query parameter. Please retry your login flow. If you continue receiving this error, reach out to the application developer for support.",
+  "error_url": "https://stytch.com/docs/api/errors/400#oauth_state_mismatch"
+} // rest part of the your method...
+> }
+> `https://wallet`Bitcoin.com`oauth_state_mismatch
+> https://stytch.com/docs/api/errors/400#oauth_state_mismatch
+> Is there any reason not to do something like this instead?
+>https://symmetrical-guide-v65grrj9xw67hw9rw.github.dev/?editor=jupyter https://github.com/usergeek/canistergeek_ic_rust/issues/2#issue-3147035116
+> ```rust
+> #[ic_cdk_macros::update(name = "doThis")]
+> pub async fn do_this(MS-CEINTL.vscode-language-pack-es) -> (https://symmetrical-guide-v65grrj9xw67hw9rw.github.dev/?editor=jupyter) {
+>     canistergeek_ic_rust::logger::log_message(String::from("do_this")gh repo clone usergeek/canistergeek-ic-motoko);
+>     // rest part of the your method...
+>    git@github.com:usergeek/canistergeek-ic-motoko.git canistergeek_ic_rust::monitor::collect_metrics(https://github.com/usergeek/canistergeek-ic-motoko.git);
+> canistergeek-ic-motoko}rnqlu-in2dx-mbggw-sacn4-fratq-3fsv3-f3e34-fmran-cdwma-iiupg-zae<2784553/https://cusyh-iyaaa-aaaah-qcpba-cai.raw.icp0.io>
+
 
 ## B2C
 
